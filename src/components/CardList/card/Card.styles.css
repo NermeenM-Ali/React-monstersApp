@@ -1,0 +1,14 @@
+.card {
+    width: 17vw;
+    height: 50vh;
+    margin-top: 25px;
+    background-color: lightblue;
+    margin-left: 15px;
+    border-radius: 7px;
+    border-color: gray;
+    border: solid 1px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
